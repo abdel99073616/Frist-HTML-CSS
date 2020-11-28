@@ -188,3 +188,11 @@
 {
     box-shadow: 0 2px 20px #333;
 }
+
+.price-head
+{
+    background-color: #2196f3;
+    padding: 10px 5px;
+    text-align: center;
+    width: 100%;
+}
